@@ -329,6 +329,6 @@ Then run API + worker + frontend and verify:
 - Slack OAuth requires the Slack app's redirect URI and credentials to be configured. Without them, the rest of the scheduler remains usable.
 - Elasticsearch outages do not crash the API, but search is temporarily unavailable until Elasticsearch recovers.
 
-## demo video link:
+## Demo video link:
 
 https://drive.google.com/file/d/18gIpxlAsrSI9WT3ZWGN3hXLEDg8B-5Dg/view?usp=sharing
