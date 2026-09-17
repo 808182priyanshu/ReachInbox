@@ -331,4 +331,4 @@ Then run API + worker + frontend and verify:
 
 ## Demo video link:
 
-https://drive.google.com/file/d/18gIpxlAsrSI9WT3ZWGN3hXLEDg8B-5Dg/view?usp=sharing
+(https://drive.google.com/file/d/1QNNxuV2nljkAgxRodb33x8uqpvNBWuzi/view?usp=sharing)
